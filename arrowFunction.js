@@ -23,8 +23,8 @@ const result3 = num(5);
 console.log(result3)
 
 
-const num = () => 7; // return 7
-const result4 = num();
+const numb = () => 7; // return 7
+const result4 = numb();
 console.log(result4)
 
 const doMath = (x, y) => {
